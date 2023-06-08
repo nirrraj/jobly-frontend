@@ -5,27 +5,29 @@ Jobly is a web application built using React that allows users to search and app
 
 Features
 ---
-User authentication and authorization
-Search for jobs by keyword or company name
-View job details, including salary and equity
-Apply to jobs
-View jobs applied to by the user
+-User authentication and authorization
+-Search for jobs by keyword or company name
+-View job details, including salary and equity
+-Apply to jobs
+-View jobs applied to by the user
 
 Getting Started
 ---
-Clone the repository to your local machine.
-Install dependencies with npm install.
-Run npm start to start the development server.
-Open http://localhost:3000 in your browser.
+-Clone the repository to your local machine.
+-Install dependencies with npm install.
+-Run npm start to start the development server.
+-Open http://localhost:3000 in your browser.
+
 Testing
-Tests are run using Jest. To run the tests in order with npm test.
+---
+Tests are run using Jest to run the tests in order with npm test.
 
 Dependencies
 ---
-axios
-bootstrap
-react
-react-dom
-react-router-dom
-react-scripts
-reactstrap
+-axios
+-bootstrap
+-react
+-react-dom
+-react-router-dom
+-react-scripts
+-reactstrap
